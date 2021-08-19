@@ -10,8 +10,7 @@
 
 #### The following sequence of screenshots depicts how the analysis was conducted to examine outcomes based on launch date:
 
-![Theater_Outcomes_vs_Launch](C:\Users\Owner\Desktop\Analysis Projects\Crowdfunding Analysis\resources\Theater_Outcomes_vs_Launch.png)
-
+![image](https://user-images.githubusercontent.com/85533099/130136886-d51a2ebd-19cf-4f6f-82b5-a347e97cb024.png)
 
 ### Analysis of Outcomes Based on Goals
 
