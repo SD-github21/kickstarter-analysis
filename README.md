@@ -18,9 +18,19 @@
 
 ![image](https://user-images.githubusercontent.com/85533099/130138581-3b67f8a3-e67f-4754-a80f-8fd77c2cf0b1.png)
 
-#### The variable "Years" was added as "Rows" and "outcomes" was added as "Values", with "Count of Outcomes" chosen as the specific value of interest. 
+#### The variable "Years" was added as "Rows" and "outcomes" was added as "Values", with "Count of Outcomes" chosen as the specific value of interest. In order to conduct a more meaningful analysis, "Month" was utilized instead of "Years" to showcase how campaigns fared according their launch month. This was accomplished by removing two automatically generated variables in the "Rows" field, i.e., "Years" and "Quarters", which led to the final image depicted below where "Months" were visible in the Pivot Table:
 
+![image](https://user-images.githubusercontent.com/85533099/130139625-0011f5ee-3d94-4d31-b88e-1f53c1a05738.png)
 
+![image](https://user-images.githubusercontent.com/85533099/130139795-69932c98-9378-4b4a-9926-6b93ff3d05c5.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130139941-7b435919-00fe-4bdc-b0f5-27c1fde2e879.png)
+
+#### Two final steps completed the analysis process. The "Parent Category" field was filtered to only include "theater" due to our interest in viewing relevant Kickstarter campaigns for theater projects and our "outcomes" field was sorted in descending order to depict "successful", "failed" and "canceled" campaigns. Below are the corresponding images that detail these steps:
+
+![image](https://user-images.githubusercontent.com/85533099/130140446-89fd085e-fe83-4081-bae1-48e86c74a0c7.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130140460-a902fbfd-6771-433c-849a-d3bd89785d12.png)
 
 
 
