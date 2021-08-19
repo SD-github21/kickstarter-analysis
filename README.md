@@ -8,9 +8,23 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### The following sequence of screenshots depicts how the analysis was conducted to examine outcomes based on launch date:
+#### First, a "Year" variable was created in the Kickstarter table by entering the following formula: =YEAR(S2), where S2 referenced the column containing the "Launch Date" data. This variable allowed for a conversion of data from the date a campaign was launched into a simpler unit of data, i.e. the year the date occurred. Second, a pivot table was then initiated within Excel:
 
-![image](https://user-images.githubusercontent.com/85533099/130136886-d51a2ebd-19cf-4f6f-82b5-a347e97cb024.png)
+![image](https://user-images.githubusercontent.com/85533099/130137714-ce871209-0e80-4f3e-9c37-781852f0df6c.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130137792-29b3d93c-94a2-4159-b886-fafcc6bfdd3d.png)
+
+#### Next, options were selected within the pivot table in order to conduct the specific analysis of interest. Parent category and Year were added as Filters and Outcomes were added as "Columns". Due to our specific interest in campaigns that were canceled, failed, and successful, a filter was intiiated to only include those specific categories of outcomes:  
+
+![image](https://user-images.githubusercontent.com/85533099/130138581-3b67f8a3-e67f-4754-a80f-8fd77c2cf0b1.png)
+
+#### The variable "Years" was added as "Rows" and "outcomes" was added as "Values", with "Count of Outcomes" chosen as the specific value of interest. 
+
+
+
+
+
+
 
 ### Analysis of Outcomes Based on Goals
 
