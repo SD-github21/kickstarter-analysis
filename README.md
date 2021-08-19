@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+### The purpose of this analysis is to provide a greater understanding of how well Kickstarter campaigns for different theater projects fared according to two key parameters, i.e., the date the campaign was launched and the fundraising goals set by the campaign. The results of this report are anticipated to provide information that will assist in decision-making processes regarding launching future Kickstarter campaigns, specifically for theater projects.
 
 ## Analysis and Challenges
 
