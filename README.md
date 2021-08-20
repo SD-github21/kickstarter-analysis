@@ -61,7 +61,7 @@
 
 ![image](https://user-images.githubusercontent.com/85533099/130173426-eb847463-006a-4023-a607-927a341e42be.png)
 
-#### The Kickstarter data file as well as the "Theater Outcomes Based on Launch Date" chart are attached as additional documents to this report. 
+#### The Kickstarter data file as well as the "Theater Outcomes Based on Launch Date" chart are attached as additional supporting documents to this report. 
 
 
 ### Analysis of Outcomes Based on Goals
