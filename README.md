@@ -1,4 +1,4 @@
-# Analysis of Relevant Kickstarter Campaigns
+# Analysis of Kickstarter Campaigns for Theater Projects
 
 
 ## Overview of Project
