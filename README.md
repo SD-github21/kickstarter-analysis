@@ -41,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/85533099/130172313-b127c9c4-9f57-492d-a2ef-c6724418e882.png)
 
-#### Finally a pivot chart was created in order to gain a visual understanding of the relationship between launch month and outcomes. The following visuals depict the steps taken to ensure the pivot chart was created but that it also matched the exact targeted pivot chart used as a template (e.g., colors of the series were changed to red, yellow and blue):
+#### Finally a pivot chart was created in order to gain a visual understanding of the relationship between launch month and outcomes. The following visuals depict the steps taken to ensure the pivot chart was created but that it also matched the exact targeted pivot chart used as a template in Canvas Module 1 (e.g., colors of the series were changed to red and yellow). A chart title was added as well:
 
 ![image](https://user-images.githubusercontent.com/85533099/130173313-926a3cb9-5986-401f-86f1-7d47d4440a9f.png)
 
