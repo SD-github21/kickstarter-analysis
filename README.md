@@ -11,7 +11,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### A series of steps were completed to conduct an analysis of outcomes based on launch date. First, a "Year" variable was created in the Kickstarter table by entering the formula "=YEAR(S2)", where S2 referenced the column containing the "Date Conversion Created" data. This variable converted the date a campaign was launched into a simpler unit of data, i.e., the year the date occurred. Second, a pivot table was then initiated within Excel as the following images indicate:
+#### A series of steps were completed to conduct an analysis of outcomes based on launch date. First, a "Year" variable was created in the Kickstarter table by entering the formula "=YEAR(S2)", where S2 referenced the column containing the "Date Created Conversion" data. This variable converted the date a campaign was launched into a simpler unit of data, i.e., the year the date occurred. Second, a pivot table was then initiated within Excel as the following images indicate:
 
 ![image](https://user-images.githubusercontent.com/85533099/130171754-5cf968bb-9060-4e9d-9b23-7b67960f1d26.png)
 
