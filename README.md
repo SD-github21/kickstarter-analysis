@@ -110,7 +110,7 @@
 ## Results
 
 ### Conclusions for “Outcomes based on Launch Date”
-#### Two conclusions can be drawn from the analysis examining outcomes based on launch date. First, the data reveals that the launch months of May (n = 111) and June (n = 100) yielded the highest number of successful theater Kickstarter campaigns. Second, the launch months of November (n = 54) and December (n = 37) yielded the lowest number of successful theater Kickstarter campaigns. Thus, according to these results, it seemed that theater Kickstarter campaigns launched in the months of November and December were more likely to fall in the “Failed” category, while those that launched fundraising campaigns in either May or June had a greater possibility of successful fundraising. 
+#### Two conclusions can be drawn from the analysis examining outcomes based on launch date. First, the data reveals that the launch months of May (n = 111) and June (n = 100) yielded the highest number of successful theater Kickstarter campaigns. Second, the launch months of November (n = 54) and December (n = 37) yielded the lowest number of successful theater Kickstarter campaigns. Thus, according to these results, it seems that theater Kickstarter campaigns launched in the months of November and December had a lower possibility of successful fundraising, while those that launched fundraising campaigns in either May or June had a greater possibility of successful fundraising. 
  
 
 ### Conclusions for “Outcomes based on Goals”
