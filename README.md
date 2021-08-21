@@ -11,7 +11,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### First, a "Year" variable was created in the Kickstarter table by entering the following formula: =YEAR(S2), where S2 referenced the column containing the "Launch Date" data. This variable converted the date a campaign was launched into a simpler unit of data, i.e. the year the date occurred. Second, a pivot table was then initiated within Excel as the following images indicate:
+#### A series of steps were completed to conduct an analysis of outcomes based on launch date. First, a "Year" variable was created in the Kickstarter table by entering the formula "=YEAR(S2)", where S2 referenced the column containing the "Date Conversion Created" data. This variable converted the date a campaign was launched into a simpler unit of data, i.e. the year the date occurred. Second, a pivot table was then initiated within Excel as the following images indicate:
 
 ![image](https://user-images.githubusercontent.com/85533099/130171754-5cf968bb-9060-4e9d-9b23-7b67960f1d26.png)
 
@@ -41,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/85533099/130172313-b127c9c4-9f57-492d-a2ef-c6724418e882.png)
 
-#### Finally a pivot chart was created in order to gain a visual understanding of the above completed data analysis. The following visuals depict the steps taken to ensure the pivot chart was created but that it also matched the exact targeted pivot chart used as a template (e.g., colors of the series were changed to red, yellow and blue):
+#### Finally a pivot chart was created in order to gain a visual understanding of the relationship between launch month and outcomes. The following visuals depict the steps taken to ensure the pivot chart was created but that it also matched the exact targeted pivot chart used as a template (e.g., colors of the series were changed to red, yellow and blue):
 
 ![image](https://user-images.githubusercontent.com/85533099/130173313-926a3cb9-5986-401f-86f1-7d47d4440a9f.png)
 
@@ -61,12 +61,45 @@
 
 ![image](https://user-images.githubusercontent.com/85533099/130173426-eb847463-006a-4023-a607-927a341e42be.png)
 
-#### The Kickstarter data file as well as the "Theater Outcomes Based on Launch Date" chart are attached as additional supporting documents to this report. 
+#### The Kickstarter data file and "Theater Outcomes Based on Launch Date" chart are attached as additional supporting documents to this report. 
 
 
 ### Analysis of Outcomes Based on Goals
 
+#### A series of steps were completed to also conduct an analysis of outcomes based on goals. First, a new worksheet was created to hold data of interest, i.e., the number and percentage of successful, failed, and canceled theater projects. The formula "=COUNTIFS(Kickstarter!$D:$D, "<1000",Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays")" was used to populate column B2 and then adjusted accordingly for columns C2 ("successful" was changed to "failed") and D2 ("successful" was changed to "canceled"):
+
+![image](https://user-images.githubusercontent.com/85533099/130308500-fc831cf8-a78a-493e-82b4-be2fca725554.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130308509-6d6d4a5b-e34a-433e-8e4d-d565b74484de.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130308517-ceb6b965-967b-4c05-903a-0f010f0f9733.png)
+
+
+#### Next, the formula "=SUM(B2:D2)" was entered and copied to fill in data for the "Total Projects" column:
+
+![image](https://user-images.githubusercontent.com/85533099/130308524-27cd3eec-07f9-4d65-aadf-d62740dba426.png)
+
+
+#### The last three columns, "Percentage Successful" , "Percentage Failed", and "Percentage Canceled", were converted to a "Percentage" data format and then populated by the following formulas which were copied down the columns: "=B2/E2", "=C2/E2", "=D2/E2". 
+
+![image](https://user-images.githubusercontent.com/85533099/130308550-4ee42cb9-8594-4936-aa5b-5c9a55666118.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130308560-73e8cfb4-9a42-4798-b7da-ffb6a2f88ae6.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130308567-c2c1604b-fdf6-4f9a-990e-2f3e86113481.png)
+
+#### Finally, a pivot chart was created in order to gain a visual understanding of the relationship between outcomes and goals. 
+
+![image](https://user-images.githubusercontent.com/85533099/130308797-16de28c6-70d8-4cc5-b542-8ce67ddab44e.png)
+
+![image](https://user-images.githubusercontent.com/85533099/130308800-1abbdf3b-9307-4e02-b47b-033ac4d3afc7.png)
+
+#### The Kickstarter data file and "Outcomes Based on Goals" chart are attached as additional supporting documents to this report. 
+
+
 ### Challenges and Difficulties Encountered
+
+
 
 ## Results
 
