@@ -94,8 +94,7 @@
 
 ![image](https://user-images.githubusercontent.com/85533099/130308800-1abbdf3b-9307-4e02-b47b-033ac4d3afc7.png)
 
-#### The Kickstarter data file and "Outcomes Based on Goals" chart are attached as additional supporting documents to this report. 
-
+#### The "Outcomes Based on Goals" chart is attached as an additional supporting document to this report. 
 
 ### Challenges and Difficulties Encountered
 
