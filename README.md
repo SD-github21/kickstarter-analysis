@@ -66,7 +66,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
-#### A series of steps were completed to also conduct an analysis of outcomes based on goals. First, a new worksheet was created to hold data of interest, i.e., the number and percentage of successful, failed, and canceled theater projects. The formula "=COUNTIFS(Kickstarter!$D:$D, "<1000",Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays")" was used to populate column B2 and then adjusted accordingly for columns C2 ("successful" was changed to "failed") and D2 ("successful" was changed to "canceled"):
+#### A series of steps were completed to also conduct an analysis of outcomes based on goals. First, a new worksheet was created to hold data of interest, i.e., the number and percentage of successful, failed, and canceled theater projects. Goal ranges were added to the spreadsheet. The formula "=COUNTIFS(Kickstarter!$D:$D, "<1000",Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays")" was used to populate column B2 and then adjusted accordingly for columns C2 ("successful" was changed to "failed") and D2 ("successful" was changed to "canceled"):
 
 ![image](https://user-images.githubusercontent.com/85533099/130308500-fc831cf8-a78a-493e-82b4-be2fca725554.png)
 
