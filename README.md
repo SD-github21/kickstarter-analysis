@@ -66,7 +66,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
-#### A series of steps were completed to also conduct an analysis of outcomes based on goals. First, a new worksheet was created to hold data of interest, i.e., the number and percentage of successful, failed, and canceled theater projects. Goal ranges were added to the spreadsheet. The formula "=COUNTIFS(Kickstarter!$D:$D, "<1000",Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays")" was used to populate column B2 and then adjusted accordingly for columns C2 ("successful" was changed to "failed") and D2 ("successful" was changed to "canceled"):
+#### A series of steps were completed to also conduct an analysis of outcomes based on goals. First, a new worksheet was created to hold data of interest, i.e., the number and percentage of successful, failed, and canceled theater projects. Goal ranges were added to the spreadsheet. The formula "=COUNTIFS(Kickstarter!$D:$D, "<1000",Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays")" was used to populate column B2 and then adjusted accordingly for columns C2 ("successful" was changed to "failed") and D2 ("successful" was changed to "canceled"). The copy function of hovering the cursor to the right of a cell to find the black “+” and then double-clicking to populate the column was utilized for efficiency:
 
 ![image](https://user-images.githubusercontent.com/85533099/130308500-fc831cf8-a78a-493e-82b4-be2fca725554.png)
 
@@ -75,7 +75,7 @@
 ![image](https://user-images.githubusercontent.com/85533099/130308517-ceb6b965-967b-4c05-903a-0f010f0f9733.png)
 
 
-#### Next, the formula "=SUM(B2:D2)" was entered and copied (using the black arrow to the right and double-clicking to copy) to fill in data for the "Total Projects" column:
+#### Next, the formula "=SUM(B2:D2)" was entered and similarly copied  to fill in data for the "Total Projects" column:
 
 ![image](https://user-images.githubusercontent.com/85533099/130308524-27cd3eec-07f9-4d65-aadf-d62740dba426.png)
 
