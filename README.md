@@ -111,11 +111,17 @@ The "Outcomes Based on Goals" chart is attached as an additional supporting docu
 ## Results
 
 ### Conclusions for “Outcomes based on Launch Date”
-Two conclusions can be drawn from the analysis examining outcomes based on launch date. First, the data reveals that the launch months of May (n = 111) and June (n = 100) yielded the highest number of successful theater Kickstarter campaigns. Second, the launch months of November (n = 54) and December (n = 37) yielded the lowest number of successful theater Kickstarter campaigns. Thus, according to these results, it seems that theater Kickstarter campaigns launched in the months of November and December had a lower possibility of successful fundraising, while those that launched fundraising campaigns in either May or June had a greater possibility of successful fundraising. 
+Two conclusions can be drawn from the analysis examining outcomes based on launch date:
+* First, the data reveals that the launch months of May (n = 111) and June (n = 100) yielded the highest number of successful theater Kickstarter campaigns. 
+* Second, the launch months of November (n = 54) and December (n = 37) yielded the lowest number of successful theater Kickstarter campaigns. 
+* Thus, according to these results, it seems that theater Kickstarter campaigns launched in the months of November and December had a lower possibility of successful fundraising, while those that launched fundraising campaigns in either May or June had a greater possibility of successful fundraising. 
  
 
 ### Conclusions for “Outcomes based on Goals”
-Conclusions can also be drawn from the analysis examining outcomes based on goals. First, 76% of the theater campaigns with a fundraising goal of “Less than $1,000” and 73% of the theater campaigns with a fundraising goal range of “1,000 to 4,999” were successful. Second, 80% of the theater campaigns with a fundraising goal range of “$25,000-$29,999” and 100% of the theater campaigns with a fundraising goal of “$45,000 -$49,999” failed. According to these results, it seems that theater campaigns that limited their budgets to less than $5,000 appeared to optimize their success with achieving their fundraising goals
+Conclusions can also be drawn from the analysis examining outcomes based on goals:
+* First, 76% of the theater campaigns with a fundraising goal of “Less than $1,000” and 73% of the theater campaigns with a fundraising goal range of “1,000 to 4,999” were successful. 
+* Second, 80% of the theater campaigns with a fundraising goal range of “$25,000-$29,999” and 100% of the theater campaigns with a fundraising goal of “$45,000 -$49,999” failed. 
+* According to these results, it seems that theater campaigns that limited their budgets to less than $5,000 appeared to optimize their success with achieving their fundraising goals
 
 ### Limitations
 * For the first data analysis, the duration of time that a Kickstarter campaign ran from launch date to end date was not explored, representing an important limitation of our analysis. While we obtained a lot of information about optimal months to launch a campaign, the length of time people had to donate to the campaign would also likely be an important factor to consider. For example, campaigns might have failed because they had only been live for a month and this might not have provided enough time for interested backers to contribute to the campaign. 
