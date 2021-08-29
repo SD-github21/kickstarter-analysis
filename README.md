@@ -61,7 +61,7 @@ Finally a pivot chart was created in order to gain a visual understanding of the
 
 ![image](https://user-images.githubusercontent.com/85533099/130173426-eb847463-006a-4023-a607-927a341e42be.png)
 
-#### The Kickstarter data file and "Theater Outcomes Based on Launch Date" chart are attached as additional supporting documents to this report. 
+The Kickstarter data file and "Theater Outcomes Based on Launch Date" chart are attached as additional supporting documents to this report. 
 
 
 ### Analysis of Outcomes Based on Goals
